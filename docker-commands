@@ -1,0 +1,5 @@
+docker create
+docker pull
+docker push
+docker exec -it -p 
+docker run container ID
